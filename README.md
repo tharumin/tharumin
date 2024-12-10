@@ -4,24 +4,24 @@
 <div align="center">
 <img height="165px" src='https://github-readme-stats.vercel.app/api?username=sadiyamin&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
 </div>
-<div align="center">
-   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=I'M+SADDESHA+Tharumin)](https://git.io/typing-svg)
-<hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Coder" alt="">
-</div>
-
 <div align="left">
 
 **Hello my name is Sadeesha Tharumin and I'm a bot developer. Currently working on WhatsApp bots ⚘**
 </div>
+<div align="center">
+   
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=I'M+SADDESHA+Tharumin)](https://git.io/typing-svg)
+<hr>
+
+## <img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Coder" alt="">
+</div>
 
 ##
 ## ABOUT ME
-* [whatsapp](https://api.whatsapp.com/send?phone=+94779062397)
-* I am from Sri Lanka,Hambanthota,Walasmulla.
-* Simple Js Bots development.
-* I'm studying. 
+_**[whatsapp](https://api.whatsapp.com/send?phone=+94779062397)**_
+_**I am from Sri Lanka,Hambanthota,Walasmulla.**_
+_**Simple Js Bots development.**_
+_**I'm studying.**_
 <br>
 
 
