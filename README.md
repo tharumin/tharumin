@@ -12,16 +12,13 @@ Hello my name is Sadeesha Tharumin and I'm a bot developer. Currently working on
 ##
 ## ABOUT ME
 * [whatsapp](https://api.whatsapp.com/send?phone=+94779062397)
-<br>
-
 * I am from Sri Lanka,Hambanthota,Walasmulla.
 * Simple Js Bots development.
 * I'm studying. 
-
 <br>
 
 
-| ![Pika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PikaBotz&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Sadeesha s github status](https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadiyamin&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
    
 
