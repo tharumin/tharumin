@@ -1,16 +1,19 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hello World⠀|⠀⠀👋⠀
+# <h1 align="center"> <code>[<img src="https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hello World⠀|⠀⠀👋⠀
 <div align="center">
 <img height="165px" src='https://github-readme-stats.vercel.app/api?username=sadiyamin&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
 </div>
 <div align="center">
    
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=IM+SADDESHA+Tharumin)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=I'M+SADDESHA+Tharumin)](https://git.io/typing-svg)
+<hr>
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Coder" alt="">
 </div>
 
 <div align="left">
-Hello my name is Sadeesha Tharumin and I'm a bot developer. Currently working on WhatsApp bots ⚘
+
+**Hello my name is Sadeesha Tharumin and I'm a bot developer. Currently working on WhatsApp bots ⚘**
 </div>
 
 ##
