@@ -18,7 +18,7 @@ Hello my name is Sadeesha Tharumin and I'm a bot developer. Currently working on
 <br>
 
 
-| ![Sadeesha s github status](https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadiyamin&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Sadeesha s github status](https://github-readme-stats.vercel.app/api?username=sadiyamin&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sadiyamin&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
    
 
